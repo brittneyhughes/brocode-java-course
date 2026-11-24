@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd57297c-3f5f-4138-8788-c6ef837ef0b6" name="Changes" comment="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 42e1e8f8a6b726ba9ff81169ed0d0eeb14865602.&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;README.md&#10;#&#9;projects/madlibs/src/main/java/com/brittneyhughes/madlibs/Main.java&#10;#&#9;projects/shopping-cart/src/main/java/com/brittneyhughes/shoppingcart/Main.java" />
+    <list default="true" id="dd57297c-3f5f-4138-8788-c6ef837ef0b6" name="Changes" comment="Add completed Mad Libs project">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +28,11 @@
     </excluded-from-favorite>
     <option name="INCOMING_COMMITS_CHECK_STRATEGY" value="FETCH" />
     <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -42,23 +49,23 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.7955364837549186" />
-      <entry key="MS500" value="1.9552829363824373" />
-      <entry key="S2" value="1.9886540188137793" />
-      <entry key="S5" value="2.0224920839380935" />
-      <entry key="S10" value="2.2801793379319744" />
-      <entry key="S30" value="3.3612645922286437" />
-      <entry key="S60" value="4.0204964959620835" />
-      <entry key="M2" value="4.461888867465781" />
-      <entry key="M5" value="4.771882070471665" />
-      <entry key="M10" value="4.883680122483101" />
-      <entry key="M15" value="4.921942073189255" />
-      <entry key="M30" value="4.960713099236219" />
-      <entry key="H1" value="4.980291636771598" />
-      <entry key="H2" value="4.990129536298257" />
-      <entry key="H4" value="4.99506069087312" />
-      <entry key="D1" value="4.999176214949671" />
-      <entry key="W1" value="4.999882302531541" />
+      <entry key="MS100" value="1.7470313284691845" />
+      <entry key="MS500" value="5.0501543185836155" />
+      <entry key="S2" value="8.652220063984615" />
+      <entry key="S5" value="10.033333864582955" />
+      <entry key="S10" value="11.564648811964615" />
+      <entry key="S30" value="17.778314800105154" />
+      <entry key="S60" value="22.2818696295785" />
+      <entry key="M2" value="25.60726339024303" />
+      <entry key="M5" value="28.092180520435896" />
+      <entry key="M10" value="29.018766182070184" />
+      <entry key="M15" value="29.339595908396877" />
+      <entry key="M30" value="29.666628456151404" />
+      <entry key="H1" value="29.832513213090667" />
+      <entry key="H2" value="29.916055261238206" />
+      <entry key="H4" value="29.957977157121213" />
+      <entry key="D1" value="29.99298917096896" />
+      <entry key="W1" value="29.998998280878556" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -80,23 +87,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8043871391087921" />
-      <entry key="MS500" value="1.3437865707744623" />
-      <entry key="S2" value="1.7781469977968265" />
-      <entry key="S5" value="1.9315690457391064" />
-      <entry key="S10" value="2.2294381646491206" />
-      <entry key="S30" value="3.3372178343821974" />
-      <entry key="S60" value="4.006196094045536" />
-      <entry key="M2" value="4.453960977342946" />
-      <entry key="M5" value="4.768489976934371" />
-      <entry key="M10" value="4.881944008573584" />
-      <entry key="M15" value="4.920775504580496" />
-      <entry key="M30" value="4.960125169845001" />
-      <entry key="H1" value="4.9799964983912455" />
-      <entry key="H2" value="4.989981672122276" />
-      <entry key="H4" value="4.994986684842284" />
-      <entry key="D1" value="4.999163870324651" />
-      <entry key="W1" value="4.999880538761547" />
+      <entry key="MS100" value="1.709722278992653" />
+      <entry key="MS500" value="5.027839946942716" />
+      <entry key="S2" value="8.642497320119679" />
+      <entry key="S5" value="10.028596834515941" />
+      <entry key="S10" value="11.559598897674952" />
+      <entry key="S30" value="17.768159805742172" />
+      <entry key="S60" value="22.272328562967807" />
+      <entry key="M2" value="25.600566491132973" />
+      <entry key="M5" value="28.088873421554712" />
+      <entry key="M10" value="29.016990247983106" />
+      <entry key="M15" value="29.338383281100153" />
+      <entry key="M30" value="29.66600742051952" />
+      <entry key="H1" value="29.832198940607697" />
+      <entry key="H2" value="29.915897176904302" />
+      <entry key="H4" value="29.957897876743175" />
+      <entry key="D1" value="29.992975924386446" />
+      <entry key="W1" value="29.998996387695588" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -113,12 +120,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "add-madlibs",
     "git.auto.fetch.suggestion.counter": "1",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/brittney/Documents/coding/brocode-java-course",
@@ -133,6 +142,9 @@
       <recent name="$PROJECT_DIR$/projects/madlibs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/projects/madlibs/src/main/java" />
+      <recent name="$PROJECT_DIR$/projects/madlibs" />
+      <recent name="$PROJECT_DIR$/projects" />
       <recent name="$PROJECT_DIR$/projects/shopping-cart" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -185,6 +197,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Add completed Mad Libs project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add completed Mad Libs project" />
   </component>
 </project>

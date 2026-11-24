@@ -19,7 +19,7 @@ Project folders are added as I work through the course.
 A checked box indicates a completed, working version.
 Completed projects may receive further improvements.
 
-- [ ] Mad Libs
+- [x] Mad Libs
 - [ ] Shopping Cart
 - [ ] Compound Interest Calculator
 - [ ] Weight Converter
