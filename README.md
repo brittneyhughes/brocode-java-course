@@ -20,7 +20,7 @@ A checked box indicates a completed, working version.
 Completed projects may receive further improvements.
 
 - [x] Mad Libs
-- [ ] Shopping Cart
+- [x] Shopping Cart
 - [ ] Compound Interest Calculator
 - [ ] Weight Converter
 - [ ] Temperature Converter
