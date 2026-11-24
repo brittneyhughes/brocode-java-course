@@ -14,7 +14,7 @@ Note: Use base-form verbs such as `run`, `sing`, or `jump`.
 - A terminal or Java IDE
 
 ## Running the Game
-Open the project in your Java IDE and run `Main.java`.
+Open the project in your Java IDE and run `src/main/java/com/brittneyhughes/madlibs/Main.java`.
 
 ## Sample Output
 ```text
