@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd57297c-3f5f-4138-8788-c6ef837ef0b6" name="Changes" comment="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 42e1e8f8a6b726ba9ff81169ed0d0eeb14865602.&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;README.md&#10;#&#9;projects/madlibs/src/main/java/com/brittneyhughes/madlibs/Main.java&#10;#&#9;projects/shopping-cart/src/main/java/com/brittneyhughes/shoppingcart/Main.java">
-      <change afterPath="$PROJECT_DIR$/projects/madlibs/src/com/brittneyhughes/madlibs/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/madlibs" beforeDir="false" afterPath="$PROJECT_DIR$/projects/madlibs/pom.xml" afterDir="false" />
+    <list default="true" id="dd57297c-3f5f-4138-8788-c6ef837ef0b6" name="Changes" comment="Add completed Mad Libs project">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,11 +120,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "add-madlibs",
     "git.auto.fetch.suggestion.counter": "1",
     "kotlin-language-version-configured": "true",
@@ -196,6 +197,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Add completed Mad Libs project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add completed Mad Libs project" />
   </component>
 </project>
