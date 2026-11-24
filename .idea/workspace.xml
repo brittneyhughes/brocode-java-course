@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd57297c-3f5f-4138-8788-c6ef837ef0b6" name="Changes" comment="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 42e1e8f8a6b726ba9ff81169ed0d0eeb14865602.&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;README.md&#10;#&#9;projects/madlibs/src/main/java/com/brittneyhughes/madlibs/Main.java&#10;#&#9;projects/shopping-cart/src/main/java/com/brittneyhughes/shoppingcart/Main.java" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="INCOMING_COMMITS_CHECK_STRATEGY" value="FETCH" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;brittneyhughes&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/brittneyhughes/brocode-java-course.git&quot;,
+    &quot;accountId&quot;: &quot;5359b662-78ec-4a1c-94b3-ed78cfe8d7f7&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.7955364837549186" />
+      <entry key="MS500" value="1.9552829363824373" />
+      <entry key="S2" value="1.9886540188137793" />
+      <entry key="S5" value="2.0224920839380935" />
+      <entry key="S10" value="2.2801793379319744" />
+      <entry key="S30" value="3.3612645922286437" />
+      <entry key="S60" value="4.0204964959620835" />
+      <entry key="M2" value="4.461888867465781" />
+      <entry key="M5" value="4.771882070471665" />
+      <entry key="M10" value="4.883680122483101" />
+      <entry key="M15" value="4.921942073189255" />
+      <entry key="M30" value="4.960713099236219" />
+      <entry key="H1" value="4.980291636771598" />
+      <entry key="H2" value="4.990129536298257" />
+      <entry key="H4" value="4.99506069087312" />
+      <entry key="D1" value="4.999176214949671" />
+      <entry key="W1" value="4.999882302531541" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8043871391087921" />
+      <entry key="MS500" value="1.3437865707744623" />
+      <entry key="S2" value="1.7781469977968265" />
+      <entry key="S5" value="1.9315690457391064" />
+      <entry key="S10" value="2.2294381646491206" />
+      <entry key="S30" value="3.3372178343821974" />
+      <entry key="S60" value="4.006196094045536" />
+      <entry key="M2" value="4.453960977342946" />
+      <entry key="M5" value="4.768489976934371" />
+      <entry key="M10" value="4.881944008573584" />
+      <entry key="M15" value="4.920775504580496" />
+      <entry key="M30" value="4.960125169845001" />
+      <entry key="H1" value="4.9799964983912455" />
+      <entry key="H2" value="4.989981672122276" />
+      <entry key="H4" value="4.994986684842284" />
+      <entry key="D1" value="4.999163870324651" />
+      <entry key="W1" value="4.999880538761547" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3MX48Bu3OJ5gDnKx7fPQfzvZAzI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "git.auto.fetch.suggestion.counter": "1",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/brittney/Documents/coding/brocode-java-course",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/projects/madlibs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/projects/shopping-cart" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.brittneyhughes.madlibs" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="brocode-java-course" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="brocode-java-course" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-ac68fc9d2b05-intellij.indexing.shared.core-IU-263.7307.200" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd57297c-3f5f-4138-8788-c6ef837ef0b6" name="Changes" comment="" />
+      <created>1795483418906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795483418906</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+</project>
